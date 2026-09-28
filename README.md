@@ -1,121 +1,171 @@
-<div align="center">
+# 👋 Hi, I'm Mainthisha S
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:8b5cf6,100:06b6d4&height=180&section=header&text=Mainthisha%20S&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full%20Stack%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=16" width="100%" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=mainthisha&label=Profile%20Views&color=8b5cf6&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mainthisha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mainthisha)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mainthishashaswin@gmail.com)
-
-**B.Tech AI & Data Science student building RAG-based AI applications, full-stack platforms, and data-driven solutions.**
-
-</div>
+### 🚀 AI & Data Science Student | Full Stack Developer | Cloud & DevOps Enthusiast | Building AI, Data Analytics & RAG Solutions
 
 ---
 
-## 👩‍💻 About Me
+# 🌐 Connect With Me
 
-- 🎓 3rd-year B.Tech **Artificial Intelligence & Data Science** at **KGiSL Institute of Technology**, Coimbatore (2024 – 2028)
-- 🤖 Building LLM and **Retrieval-Augmented Generation (RAG)** applications
-- 📊 Certified in **IBM Machine Learning** and **Google Data Analytics**
-- 🌐 Full-stack developer: React, Node/MERN, FastAPI, Flask
-- ☁️ Currently learning: **AWS, Docker, and CI/CD pipelines** through hands-on projects
-- 🔍 Open to **AI/ML, Data Analyst, Full Stack, and Cloud/DevOps internships**
+<p align="center">
+<a href="https://linkedin.com/in/mainthisha">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/mainthisha">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=py,c,cpp,java,js,mysql,react,nodejs,express,mongodb,fastapi,flask,pandas,numpy,powerbi,docker,aws,linux,git,github,githubactions,vscode,figma&perline=12)
-
-</div>
-
-| Area | Skills |
-|---|---|
-| **Languages** | Python, C, C++, Java (basics), JavaScript, SQL |
-| **ML & Data** | Pandas, NumPy, Scikit-Learn, Supervised & Unsupervised Learning, Power BI, Jupyter, Google Colab |
-| **AI / LLM** | RAG, Embeddings, Vector Databases, Prompt Engineering, LLM APIs |
-| **Web** | MERN Stack, FastAPI, Flask, Responsive Design, UI/UX |
-| **Cloud & DevOps** | AWS Fundamentals, Docker, CI/CD, Linux |
-| **Tools** | Git, GitHub, VS Code, Cisco Packet Tracer, Wireshark |
+<a href="mailto:mainthishashaswin@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
 
-<!-- EDIT: check each repo link and add live demo links -->
-| Project | What it does | Tech | Links |
-|---|---|---|---|
-| **🧠 Cognify AI** | RAG-based PDF learning assistant. Upload PDFs and ask context-aware questions using semantic search and embeddings | FastAPI, React, LangChain, FAISS, Gemini | [Repo](https://github.com/mainthisha/cognify-ai) · [Demo](#) |
-| **📚 Lexora AI** | AI-powered library management system with intelligent search and information retrieval. Built during my Litz Tech internship | FastAPI, React, TypeScript, SQLAlchemy | [Repo](https://github.com/mainthisha/Lexora-ai) · [Demo](#) |
-| **🌾 FarmSphere AI** | Smart farming platform using satellite, weather, and soil data for crop, irrigation, fertilizer, and planting recommendations | React, Flask, JWT | [Repo](https://github.com/mainthisha/farmsphere-ai) · [Demo](#) |
+🎓 3rd-Year B.Tech Artificial Intelligence & Data Science Student
 
-### More Projects
+🏫 KGiSL Institute of Technology
 
-- **✈️ Trip Smart**: AI-powered travel planning platform with itineraries, budget management, weather updates, visa planning, and collaborative trips
-- **🎪 AuraX'26**: College tech fest platform with event recommendations, real-time seat tracking, AI chatbot, digital passes, and a participant dashboard
-- **⚙️ Neural DevOps Assistant** *(in progress)*: AI-driven CI/CD support tool that helps beginners automate deployment workflows
-- **🚦 Smart Traffic Management using AI**: congestion detection and traffic-flow optimization
-- **🧓 NeuroNest** *(in progress)*: AI companion app for Alzheimer's and elderly care
-- **🏗️ Civil Engineering Corporate Website**: responsive company website with dynamic content management
+🤖 Interested in AI, Machine Learning, Data Analytics, Cloud Computing, DevOps and Full Stack Development
+
+☁️ Exploring AWS, Docker, Linux, CI/CD and Cloud Deployment
+
+🚀 Passionate about building intelligent applications that solve real-world problems
 
 ---
 
-## 💼 Experience
+# 🛠️ Tech Stack
 
-| Role | Company | Focus |
-|---|---|---|
-| AI Intern | **ShadowFox** | LLM APIs, RAG applications, prompt engineering, document processing |
-| AI Engineer Intern | **Litz Tech** | Built Lexora AI, an AI library management system |
-| Data Analyst Intern | **Thiranex** | Data cleaning, visualization, insights generation |
-| Full Stack Web Development Intern | **Future Interns** | Frontend + backend web applications |
-| UI/UX Intern | **InternPe** | Responsive UI components, layout, and visual hierarchy |
+## 💻 Programming Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+## 🤖 AI / Machine Learning
+
+![Python](https://skillicons.dev/icons?i=python)
+
+Machine Learning • Deep Learning • RAG • Prompt Engineering • Embeddings • Vector Databases • LangChain • Gemini API • Scikit-Learn • Pandas • NumPy
+
+## 🌐 Frontend Development
+
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+
+## ⚙️ Backend Development
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+## 🗄️ Database
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+## ☁️ Cloud & DevOps
+
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Github Actions](https://skillicons.dev/icons?i=githubactions)
+
+## 🧰 Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
-## 🏆 Achievements
+# 🚀 Projects
 
-- 🥉 **3rd Prize**: TEXPERIA 2026, SNS Institute of Technology
-
-## 📜 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| IBM Machine Learning Professional Certificate | IBM | 2026 |
-| Google Data Analytics Professional Certificate | Google | 2026 |
-| Building RAG Apps Using MongoDB | MongoDB | 2026 |
-| AWS Educate Machine Learning Foundations | AWS | 2026 |
-| AWS Cloud Fundamentals | Coursera | 2025 |
-| Data Structures & Algorithms | Infosys Springboard | 2026 |
-| GenAI-Powered Data Analytics Job Simulation | Tata (Forage) | 2026 |
-| Data Analytics Job Simulation | Deloitte Australia (Forage) | 2026 |
-| Generative AI Job Simulation | BCG | |
+| Project | Description | Domain |
+|----------|-------------|----------|
+| 🌾 FarmSphere AI | AI-powered Farm Digital Twin platform with crop prediction, irrigation optimization, fertilizer recommendation, disease insights and analytics | AI + Agriculture |
+| 🧠 Cognify AI | RAG-powered PDF learning assistant using semantic search, embeddings and conversational AI | Generative AI |
+| 📚 Lexora AI | AI-powered library management system with intelligent search and analytics | Full Stack AI |
+| ⚙️ Neural DevOps Assistant | AI-driven DevOps assistant for deployment and CI/CD workflow guidance | Cloud & DevOps |
+| ✈️ Trip Smart | AI-powered travel planning platform with itinerary and budget management | AI Travel |
+| 🎪 AuraX'26 | Smart event management platform with AI recommendations and digital passes | Full Stack |
+| 🚦 NexusFlow AI | Intelligent traffic management platform with congestion prediction and optimization | Smart Cities |
+| 🧓 NeuroNest | AI-powered elderly care and Alzheimer's assistance platform | Healthcare AI |
+| 🏗️ Mainthisha Associates | Corporate website with modern UI and content management system | Web Development |
 
 ---
 
-## 📊 GitHub Stats
+# 💼 Experience
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mainthisha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainthisha&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=mainthisha&theme=tokyonight&hide_border=true" />
-
-### 🐍 Contribution Graph
-<img src="https://raw.githubusercontent.com/mainthisha/mainthisha/output/github-snake-dark.svg" alt="Contribution snake" />
-
-</div>
+| Role | Organization |
+|--------|-------------|
+| AI Engineer Intern | ShadowFox |
+| AI Engineer Intern | Litz Tech |
+| Data Analyst Intern | Thiranex |
+| Full Stack Web Development Intern | Future Interns |
+| UI/UX Design Intern | InternPe |
 
 ---
 
-## 🤝 Let's Connect
+# 🏆 Achievements
 
-I'm actively looking for internships and placement opportunities in **AI/ML, Data Analytics, Full Stack, and Cloud/DevOps**. Feel free to reach out on [LinkedIn](https://linkedin.com/in/mainthisha) or by [email](mailto:mainthishashaswin@gmail.com).
+| Achievement | Year |
+|-------------|------|
+| 🥉 3rd Prize - TEXPERIA | 2026 |
+| AWS Educate Emerging Talent Community | 2026 |
+| Multiple AI & Cloud Hackathon Participant | Ongoing |
 
-<div align="center">
+---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:4f46e5&height=100&section=footer)
+# 📜 Certifications
 
-</div>
+| Certification | Provider |
+|---------------|----------|
+| IBM Machine Learning Professional Certificate | IBM |
+| Google Data Analytics Professional Certificate | Google |
+| AWS Cloud Fundamentals | Coursera |
+| AWS Educate Machine Learning Foundations | AWS |
+| Building RAG Apps Using MongoDB | MongoDB |
+| Data Structures & Algorithms | Infosys Springboard |
+| GenAI Powered Data Analytics Job Simulation | Tata |
+| Data Analytics Job Simulation | Deloitte |
+| Generative AI Job Simulation | BCG |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mainthisha&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainthisha&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=mainthisha&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📌 Open To
+
+✅ AI / ML Internships
+
+✅ Data Analytics Opportunities
+
+✅ Full Stack Development Roles
+
+✅ Cloud & DevOps Internships
+
+✅ Open Source Contributions
+
+✅ Hackathons & Innovation Challenges
